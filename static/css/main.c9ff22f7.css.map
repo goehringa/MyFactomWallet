@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KAEE,UACA,uBACC,aAAe,CAGlB,EACE,oBAAsB","file":"static/css/main.c9ff22f7.css","sourcesContent":["body {\n  /*margin: 0;*/\n  padding: 0;\n  font-family: Montserrat;\n   margin: 0 auto;\n}\n\na {\n  text-decoration: none;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
