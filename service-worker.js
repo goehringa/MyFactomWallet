@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/MyFactomWallet/precache-manifest.17e79352b562f3f1c5f998ae1c46b45b.js"
+  "/MyFactomWallet/precache-manifest.6639d942494527a31e6c5e15cda15a86.js"
 );
 
 workbox.clientsClaim();

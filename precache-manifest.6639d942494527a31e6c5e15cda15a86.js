@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/MyFactomWallet/static/js/runtime~main.2aa7f78c.js"
   },
   {
-    "revision": "99c6e86294a1aadd50bf",
-    "url": "/MyFactomWallet/static/js/main.99c6e862.chunk.js"
+    "revision": "f843fa8fced2aace723e",
+    "url": "/MyFactomWallet/static/js/main.f843fa8f.chunk.js"
   },
   {
     "revision": "bc3c09c451acfc01e8f1",
     "url": "/MyFactomWallet/static/js/1.bc3c09c4.chunk.js"
   },
   {
-    "revision": "99c6e86294a1aadd50bf",
+    "revision": "f843fa8fced2aace723e",
     "url": "/MyFactomWallet/static/css/main.5c2da87d.chunk.css"
   },
   {
-    "revision": "5c14b0d66fea2bda68f2c92cc99e474f",
+    "revision": "db09e75604514b65e2efdc380e74c851",
     "url": "/MyFactomWallet/index.html"
   }
 ];
