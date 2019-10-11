@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MyFactomWallet/precache-manifest.974239949a0d05e221102ccf689b1a9a.js"
+  "/MyFactomWallet/precache-manifest.25912b464cf589235d1496c404dcddf7.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af033fa3f83328c86d87c1aa3757d905",
+    "revision": "13ff01587430a77d6302457b87e94744",
     "url": "/MyFactomWallet/index.html"
   },
   {
-    "revision": "74a40ae19860eadc8e7f",
+    "revision": "0547fe348d13db176c2e",
     "url": "/MyFactomWallet/static/css/main.0e83b11b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyFactomWallet/static/js/2.d90011c5.chunk.js"
   },
   {
-    "revision": "74a40ae19860eadc8e7f",
-    "url": "/MyFactomWallet/static/js/main.a947707a.chunk.js"
+    "revision": "0547fe348d13db176c2e",
+    "url": "/MyFactomWallet/static/js/main.4a02b0a6.chunk.js"
   },
   {
     "revision": "3a164e5bacd1f17dca48",
